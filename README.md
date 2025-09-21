@@ -1,4 +1,5 @@
-![BannerAitana](https://github.com/user-attachments/assets/a564d9dc-7450-44bc-be60-94187d3d2b80)
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/ac51bb36-ca05-4403-b2e5-759b0037e4db" />
+
 <h1 align="left">Hey, ¿qué tal?</h1>
 
 ###
