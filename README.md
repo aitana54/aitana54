@@ -1,9 +1,8 @@
 <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/ac51bb36-ca05-4403-b2e5-759b0037e4db" />
 
-<h1 align="left">Hey, ¿qué tal?</h1>
-
 ###
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=doto&pause=1000&color=A194F7&background=E6EEFF00&width=435&lines=Hey%2C+%C2%BFqu%C3%A9+tal%3F)](https://git.io/typing-svg)
 <p align="left">Mi nombre es Aitana, soy de Barcelona. En estos momentos estoy cursando un ciclo formativo de grado superior en desarrollo aplicaciones web (DAW). Hice también el grado medio de sistemas microinformáticos y redes (SMR).<br><br>Mi objetivo es aprender el máximo posible para luego poder desarrollar programas que ayuden.</p>
 
 ###
